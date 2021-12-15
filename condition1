@@ -20,7 +20,7 @@ else if (marks<55 && marks>39)
 {
 printf("grade d");
 }
-else (marks<40 && marks>0)
+else
  {
     printf("grade f");
   }
